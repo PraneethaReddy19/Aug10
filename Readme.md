@@ -6,4 +6,4 @@ This is Readme.md
 
 #added requirements.txt
 .src/requirements.txt
-rel 1_0_1
+Feature 1.0_1
