@@ -14,3 +14,5 @@ feature3 rel_1.0
 
 
 Feature rel_1.2
+
+fix for base feature1
