@@ -11,3 +11,6 @@ base feature 1
 
 feature3 rel_1.0
 >>>>>>> rel_1.0
+
+
+Feature rel_1.2
